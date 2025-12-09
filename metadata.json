@@ -1,0 +1,5 @@
+{
+  "name": "VibeCheck Cinema",
+  "description": "A vibe-based movie recommendation engine that creates unique quizzes to find your perfect film.",
+  "requestFramePermissions": []
+}

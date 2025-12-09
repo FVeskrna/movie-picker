@@ -65,10 +65,7 @@ const App: React.FC = () => {
             className="font-bold text-xl tracking-tight cursor-pointer hover:text-white transition-colors"
             onClick={() => setView('start')}
           >
-            VIBE<span className="text-primary">CHECK</span>
-          </div>
-          <div className="text-sm text-gray-500">
-            Powered by TMDB
+            Movie<span className="text-primary">Picker</span>
           </div>
         </header>
 

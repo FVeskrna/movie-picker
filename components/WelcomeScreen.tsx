@@ -8,7 +8,7 @@ export const WelcomeScreen: React.FC<Props> = ({ onStart }) => {
   return (
     <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4 animate-fade-in">
       <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary">
-        VibeCheck Cinema
+        MoviePicker
       </h1>
       <p className="text-xl text-gray-400 mb-12 max-w-2xl">
         Stop scrolling endlessly. Answer 7 abstract questions about your current mood, 
